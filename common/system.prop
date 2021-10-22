@@ -1,0 +1,6 @@
+ro.vendor.dfps.enable=false
+ro.vendor.smart_dfps.enable=false
+ro.media.recorder-max-base-layer-fps=120
+ro.miui.has_real_blur=1
+ro.control_privapp_permissions=log
+ro.miui.backdrop_sampling_enabled=true
